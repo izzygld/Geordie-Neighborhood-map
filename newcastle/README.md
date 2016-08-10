@@ -15,7 +15,7 @@ Simply open index.html. and enjoy!
 
 Every symbol represents something:
 
-1. The traditional symbol for the bathroom flag (toilets)
+1. The traditional symbol for the bathroom (toilets)
 2. The shop/grocery icon (shops)
 3. The drink icon (pubs and bars)
 4. Classic Hotel symbol (hotels/motels)
@@ -27,4 +27,4 @@ Every symbol represents something:
 * KnockoutJS (for information on using Knockout);
 * knockmeout.net (for a little extra guidance on knockout);
 * MDN and Udacity's fora (for error-handling on maps);
-At last but not least the UDACITY school for giving mt this wonderful oppertunity.
+* At last but not least the UDACITY school for giving mt this wonderful oppertunity.
